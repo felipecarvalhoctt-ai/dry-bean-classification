@@ -1,0 +1,3 @@
+# Projeto classificação Dry Bean
+
+Use Python 3.10+ e instale as dependências do arquivo `requirements.txt`. Para executar toda a esteira: `python -m src.pipeline`. O notebook demonstrativo está em `notebooks/analise_dry_bean.ipynb`. Consulte `README.md` para fonte dos dados, metodologia, arquivos gerados e publicação no GitHub; consulte `roteiro_video.md` para a gravação.
